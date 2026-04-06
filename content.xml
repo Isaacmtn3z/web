@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260406173540YEDSCR</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604061735405TBIF8</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SA 1: &quot;From Egg to Butterfly: Our Hungry Caterpillar on the Farm&quot;.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Isaac Martínez Gómez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>exelearning Tarea 2a curso CDD B2
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775489737120</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnncqx05-blb1re8oq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SA1: &quot;From Egg to Butterfly: Our Hungry Caterpillar on the Farm&quot;. </pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA1: &quot;From Egg to Butterfly: Our Hungry Caterpillar on the Farm&quot;. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA1: &quot;From Egg to Butterfly: Our Hungry Caterpillar on the Farm&quot;. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncqx05-blb1re8oq</odePageId>
+      <odeBlockId>block-1774951624005-1sdhn92ee</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncqx05-blb1re8oq</odePageId>
+          <odeBlockId>block-1774951624005-1sdhn92ee</odeBlockId>
+          <odeIdeviceId>idevice-1774951624002-5jk8o2xfr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Dirigido a alumnado de 1º de Educación Infantil (3 años).</li>
+<li>Principalmente el área 3 "Comunicación y Representación de la Realidad" (Lengua Extranjera: inglés), aunque al ser globalizada también se trabajan las áreas 1 y 2, "Crecimiento en Armonía" y "Descubrimiento y exploración del entorno". </li>
+<li>Agrupamientos y organización espacial: individual, pequeño grupo (equipos de 5) y gran grupo (grupo clase).</li>
+<li>Temporalización: 4 semanas, unas 8 sesiones de 30 minutos.</li>
+<li>Productos intermedios y producto final:
+<ul>
+<li>El alumnado elaborará los siguientes productos intermedios: 
+<ul>
+<li>Sesión 1: Presentación del cuento.</li>
+<li>Sesión 2: Vocabulario de colores, números y frutas y juego manipulativo.</li>
+<li>Sesión 3: Días de la semana con canción y tarjetas.</li>
+<li>Sesión 4: Storytelling completo + juego motor “I’m hungry!”.</li>
+<li>Sesión 5: Ciclo de vida (craft y mural cooperativo).</li>
+<li>Sesión 6: Creación de la infografía interactiva.</li>
+<li>Sesión 7: Ensayo dramatización y preparación del podcast.</li>
+<li>Sesión 8: Grabación del podcast y exposición final.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>El alumnado elaborará los siguientes productos finales: 
+<ul>
+<li>Creación de la infografía interactiva.</li>
+<li>Dramatización del cuento (podcast).</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Recursos tecnológicos necesarios: tablets, pantalla digital interactiva. </li>
+<li>Herramientas tecnológicas: Canva, Genially, iDoceo, VN, Grabadora de voz.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774951624002-5jk8o2xfr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Dirigido a alumnado de 1º de Educación Infantil (3 años).</li>\n<li>Principalmente el área 3 \"Comunicación y Representación de la Realidad\" (Lengua Extranjera: inglés), aunque al ser globalizada también se trabajan las áreas 1 y 2, \"Crecimiento en Armonía\" y \"Descubrimiento y exploración del entorno\". </li>\n<li>Agrupamientos y organización espacial: individual, pequeño grupo (equipos de 5) y gran grupo (grupo clase).</li>\n<li>Temporalización: 4 semanas, unas 8 sesiones de 30 minutos.</li>\n<li>Productos intermedios y producto final:\n<ul>\n<li>El alumnado elaborará los siguientes productos intermedios: \n<ul>\n<li>Sesión 1: Presentación del cuento.</li>\n<li>Sesión 2: Vocabulario de colores, números y frutas y juego manipulativo.</li>\n<li>Sesión 3: Días de la semana con canción y tarjetas.</li>\n<li>Sesión 4: Storytelling completo + juego motor “I’m hungry!”.</li>\n<li>Sesión 5: Ciclo de vida (craft y mural cooperativo).</li>\n<li>Sesión 6: Creación de la infografía interactiva.</li>\n<li>Sesión 7: Ensayo dramatización y preparación del podcast.</li>\n<li>Sesión 8: Grabación del podcast y exposición final.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>El alumnado elaborará los siguientes productos finales: \n<ul>\n<li>Creación de la infografía interactiva.</li>\n<li>Dramatización del cuento (podcast).</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Recursos tecnológicos necesarios: tablets, pantalla digital interactiva. </li>\n<li>Herramientas tecnológicas: Canva, Genially, iDoceo, VN, Grabadora de voz.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncqx07-xtp9zvcuc</odePageId>
+  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <pageName>1. Intención Educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncqx07-xtp9zvcuc</odePageId>
+      <odeBlockId>block-1775486791424-8d736px59</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncqx07-xtp9zvcuc</odePageId>
+          <odeBlockId>block-1775486791424-8d736px59</odeBlockId>
+          <odeIdeviceId>idevice-1775486791422-318rrqe4h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Justificación de su desarrollo: </strong></p>
+<p style="text-align: justify;">En esta Situación de Aprendizaje el alumnado de 3 años se adentrará en el cuento "The Very Hungry Caterpillar" (Eric Carle) como hilo conductor para trabajar el inglés de manera globalizada dentro del proyecto anual de etapa "La granja" (The Farm). </p>
+<p style="text-align: justify;">A través de la narración del cuento, el alumnado trabajará vocabulario básico en inglés relacionado con las frutas, los colores, los números, los días de la semana y el ciclo de la vida (egg-caterpillar-cocoon-butterfly). La propuesta se basa en el storytelling, la participación activa mediante gestos (TPR), la repetición de estructuras sencillas y el juego manipulativo. </p>
+<p style="text-align: justify;">El alumnado realizará actividades globalizadas (artísticas, motrices, musicales y digitales) fomentando la comunicación oral en un idioma extranjero, el trabajo cooperativo y la inclusión siguiendo principios DUA. </p>
+<p><em><strong>Con esta Situación de Aprendizaje se pretende que el alumnado: </strong></em></p>
+<ul>
+<li>Comprenda y disfrute de la narración del cuento "The Very Hungry Caterpillar".</li>
+<li>Reconozca y repita vocabulario básico.</li>
+<li>Participe en canciones, rutinas y juegos en inglés usando gestos y repetición.</li>
+<li>Identifique el ciclo de la vida de un insecto.</li>
+<li>Colabore en tareas cooperativas.</li>
+<li>Valore la importancia de desarrollar hábitos saludables.</li>
+<li>Investigue y reúna la información necesaria para realizar la tarea propuesta. </li>
+</ul>
+<p><br /></p>
+<p><strong>Relación con los ODS:</strong></p>
+<ul>
+<li style="text-align: justify;"><em><strong>Hambre cero (ODS 2):</strong></em> Se aborda la alimentación y la importancia de comer de forma equilibrada. El alumnado identifica diferentes alimentos y se introduce el valor de una alimentación saludable.</li>
+<li style="text-align: justify;"><em><strong>Salud y bienestar (ODS 3):</strong></em> Se fomenta el bienestar mediante hábitos saludables y el cuidado del cuerpo. El alumnado comprende que comer bien ayuda a crecer sanos y fuertes.</li>
+<li style="text-align: justify;"><em><strong>Educación de calidad (ODS 4):</strong></em> Favorece una educación inclusiva y equitativa mediante metodologías activas y medidas basadas en el DUA, garantizando la participación de todo el alumnado.</li>
+<li style="text-align: justify;"><em><strong>Producción y consumo responsable (ODS 12):</strong></em> Se trabaja la idea de consumo responsable a través del respeto por los alimentos y el trabajo de campo, evitando el desperdicio y comprendiendo que los alimentos provienen del entorno natural.</li>
+<li style="text-align: justify;"><strong><em>Vida de ecosistemas terrestres (ODS 15):</em> </strong>El ciclo de la vida de la oruga conecta directamente con el respeto por los seres vivos y la naturaleza, promoviendo la observación y el cuidado del entorno.</li>
+</ul>
+<p style="text-align: justify;"><strong>Relación con los Retos del Siglo XXI: </strong></p>
+<ul>
+<li style="text-align: justify;"><em><strong>Sostenibilidad y cuidado del medio ambiente</strong></em>: El alumnado toma conciencia del respeto por los seres vivos y la naturaleza a través del ciclo de vida de la oruga y su relación con el entorno de la granja.</li>
+<li style="text-align: justify;"><em><strong>Salud, bienestar y hábitos de vida saludables: </strong></em>El cuento permite abordar la alimentación saludable de forma sencilla, comparando frutas y alimentos variados.</li>
+<li style="text-align: justify;"><strong>Desarrollo emocional y social: </strong>Se potencia la confianza del alumnado, la participación en grupo y la gestión emocional a través del juego, el trabajo cooperativo y la dramatización.</li>
+<li style="text-align: justify;"><em><strong>Competencia digital y uso responsable de la tecnología: </strong></em>El alumnado se inicia en el uso de herramientas digitales de manera guiada y segura, creando productos finales sencillos (infografía interactiva y podcast).</li>
+<li style="text-align: justify;"><em><strong>Comunicación y plurilingüismo:</strong></em> El uso del inglés en rutinas y storytelling desarrolla la comunicación en lengua extranjera como herramienta para interactuar.</li>
+<li style="text-align: justify;"><em><strong>Creatividad e innovación: </strong></em>El alumnado produce materiales artísticos y digitales combinando expresión plástica, música y dramatización. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775486791422-318rrqe4h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Justificación de su desarrollo: </strong></p>\n<p style=\"text-align: justify;\">En esta Situación de Aprendizaje el alumnado de 3 años se adentrará en el cuento \"The Very Hungry Caterpillar\" (Eric Carle) como hilo conductor para trabajar el inglés de manera globalizada dentro del proyecto anual de etapa \"La granja\" (The Farm). </p>\n<p style=\"text-align: justify;\">A través de la narración del cuento, el alumnado trabajará vocabulario básico en inglés relacionado con las frutas, los colores, los números, los días de la semana y el ciclo de la vida (egg-caterpillar-cocoon-butterfly). La propuesta se basa en el storytelling, la participación activa mediante gestos (TPR), la repetición de estructuras sencillas y el juego manipulativo. </p>\n<p style=\"text-align: justify;\">El alumnado realizará actividades globalizadas (artísticas, motrices, musicales y digitales) fomentando la comunicación oral en un idioma extranjero, el trabajo cooperativo y la inclusión siguiendo principios DUA. </p>\n<p><em><strong>Con esta Situación de Aprendizaje se pretende que el alumnado: </strong></em></p>\n<ul>\n<li>Comprenda y disfrute de la narración del cuento \"The Very Hungry Caterpillar\".</li>\n<li>Reconozca y repita vocabulario básico.</li>\n<li>Participe en canciones, rutinas y juegos en inglés usando gestos y repetición.</li>\n<li>Identifique el ciclo de la vida de un insecto.</li>\n<li>Colabore en tareas cooperativas.</li>\n<li>Valore la importancia de desarrollar hábitos saludables.</li>\n<li>Investigue y reúna la información necesaria para realizar la tarea propuesta. </li>\n</ul>\n<p><br /></p>\n<p><strong>Relación con los ODS:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><em><strong>Hambre cero (ODS 2):</strong></em> Se aborda la alimentación y la importancia de comer de forma equilibrada. El alumnado identifica diferentes alimentos y se introduce el valor de una alimentación saludable.</li>\n<li style=\"text-align: justify;\"><em><strong>Salud y bienestar (ODS 3):</strong></em> Se fomenta el bienestar mediante hábitos saludables y el cuidado del cuerpo. El alumnado comprende que comer bien ayuda a crecer sanos y fuertes.</li>\n<li style=\"text-align: justify;\"><em><strong>Educación de calidad (ODS 4):</strong></em> Favorece una educación inclusiva y equitativa mediante metodologías activas y medidas basadas en el DUA, garantizando la participación de todo el alumnado.</li>\n<li style=\"text-align: justify;\"><em><strong>Producción y consumo responsable (ODS 12):</strong></em> Se trabaja la idea de consumo responsable a través del respeto por los alimentos y el trabajo de campo, evitando el desperdicio y comprendiendo que los alimentos provienen del entorno natural.</li>\n<li style=\"text-align: justify;\"><strong><em>Vida de ecosistemas terrestres (ODS 15):</em> </strong>El ciclo de la vida de la oruga conecta directamente con el respeto por los seres vivos y la naturaleza, promoviendo la observación y el cuidado del entorno.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Relación con los Retos del Siglo XXI: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><em><strong>Sostenibilidad y cuidado del medio ambiente</strong></em>: El alumnado toma conciencia del respeto por los seres vivos y la naturaleza a través del ciclo de vida de la oruga y su relación con el entorno de la granja.</li>\n<li style=\"text-align: justify;\"><em><strong>Salud, bienestar y hábitos de vida saludables: </strong></em>El cuento permite abordar la alimentación saludable de forma sencilla, comparando frutas y alimentos variados.</li>\n<li style=\"text-align: justify;\"><strong>Desarrollo emocional y social: </strong>Se potencia la confianza del alumnado, la participación en grupo y la gestión emocional a través del juego, el trabajo cooperativo y la dramatización.</li>\n<li style=\"text-align: justify;\"><em><strong>Competencia digital y uso responsable de la tecnología: </strong></em>El alumnado se inicia en el uso de herramientas digitales de manera guiada y segura, creando productos finales sencillos (infografía interactiva y podcast).</li>\n<li style=\"text-align: justify;\"><em><strong>Comunicación y plurilingüismo:</strong></em> El uso del inglés en rutinas y storytelling desarrolla la comunicación en lengua extranjera como herramienta para interactuar.</li>\n<li style=\"text-align: justify;\"><em><strong>Creatividad e innovación: </strong></em>El alumnado produce materiales artísticos y digitales combinando expresión plástica, música y dramatización. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncqx07-4686w3a3f</odePageId>
+  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <pageName>2. Elementos Curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos Curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos Curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncqx07-4686w3a3f</odePageId>
+      <odeBlockId>block-1775486997138-6v8xqff2x</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncqx07-4686w3a3f</odePageId>
+          <odeBlockId>block-1775486997138-6v8xqff2x</odeBlockId>
+          <odeIdeviceId>idevice-1775463488021-pmdtkiuxc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong><span style="font-size: 14pt;">Competencias clave</span> </strong>(perfil de salida 3 años)<strong>: </strong></p>
+<ul>
+<li style="text-align: justify;"><strong>Competencia en comunicación lingüística (CCL): </strong>comunicación oral a través de rutinas y storytelling.</li>
+<li style="text-align: justify;"><strong>Competencia Plurilingüe (CP):</strong> contacto inicial con la lengua extranjera (inglés).</li>
+<li style="text-align: justify;"><strong>Competencia matemática y en Ciencia, Tecnología e Ingeniería (STEM):</strong> conteo de alimentos, secuencias temporales y ciclo vital. </li>
+<li style="text-align: justify;"><strong>Competencia Digital (CD):</strong> uso guiado de herramientas digitales. </li>
+<li style="text-align: justify;"><strong>Competencia Personal, Social y de Aprender a Aprender (CPSAA):</strong> participación, emociones y confianza comunicativa. </li>
+<li style="text-align: justify;"><strong>Competencia Ciudadana (CC): </strong>cooperación, respeto de turnos y normas. </li>
+<li style="text-align: justify;"><strong>Competencia Emprendedora (CE): </strong>creatividad en la dramatización y producción del podcast. </li>
+<li style="text-align: justify;"><strong>Competencia en Conciencia y Expresión Culturales (CCEC):</strong> expresión artística, cuento ilustrado y música. </li>
+</ul>
+<p><br /></p>
+<p><span style="font-size: 14pt;"><strong>Competencias específicas, criterios de evaluación y saberes básicos: </strong></span></p>
+<p><strong><em>ÁREA I: Crecimiento en armonía</em></strong></p>
+<p style="text-align: justify;"><strong><em>- Competencia específica 3: </em></strong>Adoptar modelos de vida saludable y sostenible, aprendiendo a cuidarse y a cuidar el entorno, para contribuir al bienestar físico y emocional.</p>
+<ul>
+<li style="text-align: justify;">3.1. Realizar actividades relacionadas con el autocuidado y el cuidado del entorno con una actitud respetuosa, mostrando autoconfianza e iniciativa.
+<ul>
+<li style="text-align: justify;">Identifica hábitos saludables relacionados con la alimentación (elige frutas como “healthy food”).</li>
+</ul>
+</li>
+<li style="text-align: justify;">3.2. Respetar la secuencia temporal asociada a los acontecimientos y actividades cotidianas, adaptándose a las rutinas establecidas para el grupo y desarrollando comportamientos respetuosos hacia las demás personas. 
+<ul>
+<li style="text-align: justify;">Comprende y anticipa la secuencia del cuento (egg → caterpillar → cocoon → butterfly).</li>
+<li style="text-align: justify;">Participa en actividades de orden temporal reconociendo los días de la semana del cuento (Monday, Tuesday…) con apoyo visual.</li>
+</ul>
+</li>
+</ul>
+<p>Saberes básicos: </p>
+<ul>
+<li style="text-align: justify;">Hábitos de vida saludable: alimentación equilibrada y descanso.</li>
+<li style="text-align: justify;">Rutinas de aula y hábitos de autonomía: seguir secuencias y normas básicas.</li>
+<li style="text-align: justify;">Desarrollo de la autoestima y la confianza: participación en actividades nuevas (storytelling, dramatización).</li>
+<li style="text-align: justify;">Regulación emocional básica: identificación de sensaciones y necesidades (hungry).</li>
+<li style="text-align: justify;">Relaciones sociales: respeto de turnos, cooperación y participación en juegos grupales.</li>
+</ul>
+<p><br /></p>
+<p><em><strong>ÁREA II: Descubrimiento y Exploración del Entorno</strong></em></p>
+<p style="text-align: justify;">- <strong>Competencia específica 3:</strong> Desarrollar una conciencia de conservación del medio, comprendiendo progresivamente la importancia del cuidado y protección de la naturaleza y de los animales.</p>
+<ul>
+<li style="text-align: justify;">3.1. Mostrar una actitud de respeto, cuidado y protección hacia el medio natural y los animales, identificando el impacto positivo o negativo que algunas acciones humanas ejercen sobre ellos.
+<ul>
+<li style="text-align: justify;">Muestra curiosidad y participa en conversaciones sencillas sobre animales pequeños/insectos del entorno (conexión con la granja).</li>
+</ul>
+</li>
+<li style="text-align: justify;">3.2. Identificar rasgos comunes y diferentes entre seres vivos e inertes.<br />
+<ul>
+<li style="text-align: justify;">Identifica y ordena con apoyo imágenes del ciclo de vida (egg–caterpillar–cocoon–butterfly).</li>
+</ul>
+</li>
+</ul>
+<p style="text-align: justify;">Saberes básicos: </p>
+<ul>
+<li style="text-align: justify;">Observación y exploración del entorno natural (granja, insectos).</li>
+<li style="text-align: justify;">Los seres vivos: características básicas y diferencias entre seres vivos e inertes.</li>
+<li style="text-align: justify;">Cambios y transformaciones en la naturaleza: ciclo vital (egg–caterpillar–cocoon–butterfly).</li>
+<li style="text-align: justify;">Clasificación y relación de objetos según sus atributos (color, tamaño, cantidad).</li>
+<li style="text-align: justify;">Iniciación a nociones matemáticas sencillas: conteo de alimentos, secuencias temporales (días de la semana).</li>
+<li style="text-align: justify;">Actitudes de respeto y cuidado hacia animales y naturaleza.</li>
+</ul>
+<p><br /></p>
+<p style="text-align: justify;"><em><strong>ÁREA III: Comunicación y Representación de la Realidad </strong></em></p>
+<p style="text-align: justify;">- <strong>Competencia específica 1:</strong> Participar de manera activa, espontánea y respetuosa en situaciones comunicativas, utilizando diferentes lenguajes y formas de expresión.</p>
+<ul>
+<li style="text-align: justify;">1.3. Participar en situaciones de uso de diferentes lenguas, mostrando interés, curiosidad y respeto por la diversidad de perfiles lingüísticos.<br />
+<ul>
+<li>Utiliza vocabulario básico en inglés en rutinas o juegos simbólicos relacionados con la granja y el cuento.</li>
+</ul>
+</li>
+<li style="text-align: justify;">1.4. Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales. 
+<ul>
+<li style="text-align: justify;">Interactúa de forma guiada con recursos digitales (PDI/tablet) para escuchar audios, ver imágenes o participar en juegos.</li>
+</ul>
+</li>
+</ul>
+<p style="text-align: justify;">- <strong>Competencia específica 2:</strong> Interpretar y comprender mensajes y representaciones apoyándose en conocimientos y recursos de su propia experiencia para responder a las demandas del entorno y construir nuevos aprendizajes.</p>
+<ul>
+<li style="text-align: justify;">2.2. Interpretar los mensajes transmitidos mediante representaciones o manifestaciones artísticas, también en formato digital, reconociendo la intencionalidad del emisor y mostrando una actitud curiosa y responsable.
+<ul>
+<li style="text-align: justify;">Atiende y muestra comprensión global de cuentos y canciones sencillas en inglés mediante gestos, mirada y respuesta corporal.</li>
+<li style="text-align: justify;">Identifica personajes, acciones y elementos del cuento (caterpillar, butterfly, apple…) señalando imágenes o materiales manipulativos.</li>
+</ul>
+</li>
+</ul>
+<p style="text-align: justify;">- <strong>Competencia específica 3:</strong> Producir mensajes de manera eficaz, personal y creativa, utilizando diferentes lenguajes, descubriendo los códigos de cada uno de ellos y explorando sus posibilidades expresivas, para responder a diferentes necesidades comunicativas.</p>
+<ul>
+<li style="text-align: justify;">3.4. Elaborar creaciones plásticas, explorando y utilizando diferentes materiales y técnicas y participando activamente en el trabajo en grupo cuando se precise.
+<ul>
+<li style="text-align: justify;">Realiza producciones plásticas relacionadas con la historia (oruga, frutas, mariposa) mostrando intención comunicativa.</li>
+</ul>
+</li>
+<li style="text-align: justify;">3.5. Interpretar propuestas dramáticas y musicales, utilizando y explorando diferentes instrumentos, recursos o técnicas.<br />
+<ul>
+<li style="text-align: justify;">Participa en dramatizaciones y juegos de representación del cuento utilizando gestos, movimientos y algunas palabras clave.</li>
+</ul>
+</li>
+</ul>
+<p>Saberes básicos: </p>
+<ul>
+<li style="text-align: justify;">Comprensión del cuento.</li>
+<li style="text-align: justify;">Uso del lenguaje oral: vocabulario básico y repetición de estructuras.</li>
+<li style="text-align: justify;">Participación en situaciones comunicativas: escucha activa y respuesta mediante gestos y palabras.</li>
+<li style="text-align: justify;">Aproximación a lengua extranjera (inglés): palabras y expresiones cotidianas vinculadas al cuento (hungry, apple, butterfly, Monday…).</li>
+<li style="text-align: justify;">Expresión plástica: creación de mural y manualidad de oruga.</li>
+<li style="text-align: justify;">Expresión musical y corporal: canciones (days of the week), dramatización del cuento.</li>
+<li style="text-align: justify;">Iniciación a recursos digitales: participación en infografía interactiva y grabación de audio. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775463488021-pmdtkiuxc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong><span style=\"font-size: 14pt;\">Competencias clave</span> </strong>(perfil de salida 3 años)<strong>: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Competencia en comunicación lingüística (CCL): </strong>comunicación oral a través de rutinas y storytelling.</li>\n<li style=\"text-align: justify;\"><strong>Competencia Plurilingüe (CP):</strong> contacto inicial con la lengua extranjera (inglés).</li>\n<li style=\"text-align: justify;\"><strong>Competencia matemática y en Ciencia, Tecnología e Ingeniería (STEM):</strong> conteo de alimentos, secuencias temporales y ciclo vital. </li>\n<li style=\"text-align: justify;\"><strong>Competencia Digital (CD):</strong> uso guiado de herramientas digitales. </li>\n<li style=\"text-align: justify;\"><strong>Competencia Personal, Social y de Aprender a Aprender (CPSAA):</strong> participación, emociones y confianza comunicativa. </li>\n<li style=\"text-align: justify;\"><strong>Competencia Ciudadana (CC): </strong>cooperación, respeto de turnos y normas. </li>\n<li style=\"text-align: justify;\"><strong>Competencia Emprendedora (CE): </strong>creatividad en la dramatización y producción del podcast. </li>\n<li style=\"text-align: justify;\"><strong>Competencia en Conciencia y Expresión Culturales (CCEC):</strong> expresión artística, cuento ilustrado y música. </li>\n</ul>\n<p><br /></p>\n<p><span style=\"font-size: 14pt;\"><strong>Competencias específicas, criterios de evaluación y saberes básicos: </strong></span></p>\n<p><strong><em>ÁREA I: Crecimiento en armonía</em></strong></p>\n<p style=\"text-align: justify;\"><strong><em>- Competencia específica 3: </em></strong>Adoptar modelos de vida saludable y sostenible, aprendiendo a cuidarse y a cuidar el entorno, para contribuir al bienestar físico y emocional.</p>\n<ul>\n<li style=\"text-align: justify;\">3.1. Realizar actividades relacionadas con el autocuidado y el cuidado del entorno con una actitud respetuosa, mostrando autoconfianza e iniciativa.\n<ul>\n<li style=\"text-align: justify;\">Identifica hábitos saludables relacionados con la alimentación (elige frutas como “healthy food”).</li>\n</ul>\n</li>\n<li style=\"text-align: justify;\">3.2. Respetar la secuencia temporal asociada a los acontecimientos y actividades cotidianas, adaptándose a las rutinas establecidas para el grupo y desarrollando comportamientos respetuosos hacia las demás personas. \n<ul>\n<li style=\"text-align: justify;\">Comprende y anticipa la secuencia del cuento (egg → caterpillar → cocoon → butterfly).</li>\n<li style=\"text-align: justify;\">Participa en actividades de orden temporal reconociendo los días de la semana del cuento (Monday, Tuesday…) con apoyo visual.</li>\n</ul>\n</li>\n</ul>\n<p>Saberes básicos: </p>\n<ul>\n<li style=\"text-align: justify;\">Hábitos de vida saludable: alimentación equilibrada y descanso.</li>\n<li style=\"text-align: justify;\">Rutinas de aula y hábitos de autonomía: seguir secuencias y normas básicas.</li>\n<li style=\"text-align: justify;\">Desarrollo de la autoestima y la confianza: participación en actividades nuevas (storytelling, dramatización).</li>\n<li style=\"text-align: justify;\">Regulación emocional básica: identificación de sensaciones y necesidades (hungry).</li>\n<li style=\"text-align: justify;\">Relaciones sociales: respeto de turnos, cooperación y participación en juegos grupales.</li>\n</ul>\n<p><br /></p>\n<p><em><strong>ÁREA II: Descubrimiento y Exploración del Entorno</strong></em></p>\n<p style=\"text-align: justify;\">- <strong>Competencia específica 3:</strong> Desarrollar una conciencia de conservación del medio, comprendiendo progresivamente la importancia del cuidado y protección de la naturaleza y de los animales.</p>\n<ul>\n<li style=\"text-align: justify;\">3.1. Mostrar una actitud de respeto, cuidado y protección hacia el medio natural y los animales, identificando el impacto positivo o negativo que algunas acciones humanas ejercen sobre ellos.\n<ul>\n<li style=\"text-align: justify;\">Muestra curiosidad y participa en conversaciones sencillas sobre animales pequeños/insectos del entorno (conexión con la granja).</li>\n</ul>\n</li>\n<li style=\"text-align: justify;\">3.2. Identificar rasgos comunes y diferentes entre seres vivos e inertes.<br />\n<ul>\n<li style=\"text-align: justify;\">Identifica y ordena con apoyo imágenes del ciclo de vida (egg–caterpillar–cocoon–butterfly).</li>\n</ul>\n</li>\n</ul>\n<p style=\"text-align: justify;\">Saberes básicos: </p>\n<ul>\n<li style=\"text-align: justify;\">Observación y exploración del entorno natural (granja, insectos).</li>\n<li style=\"text-align: justify;\">Los seres vivos: características básicas y diferencias entre seres vivos e inertes.</li>\n<li style=\"text-align: justify;\">Cambios y transformaciones en la naturaleza: ciclo vital (egg–caterpillar–cocoon–butterfly).</li>\n<li style=\"text-align: justify;\">Clasificación y relación de objetos según sus atributos (color, tamaño, cantidad).</li>\n<li style=\"text-align: justify;\">Iniciación a nociones matemáticas sencillas: conteo de alimentos, secuencias temporales (días de la semana).</li>\n<li style=\"text-align: justify;\">Actitudes de respeto y cuidado hacia animales y naturaleza.</li>\n</ul>\n<p><br /></p>\n<p style=\"text-align: justify;\"><em><strong>ÁREA III: Comunicación y Representación de la Realidad </strong></em></p>\n<p style=\"text-align: justify;\">- <strong>Competencia específica 1:</strong> Participar de manera activa, espontánea y respetuosa en situaciones comunicativas, utilizando diferentes lenguajes y formas de expresión.</p>\n<ul>\n<li style=\"text-align: justify;\">1.3. Participar en situaciones de uso de diferentes lenguas, mostrando interés, curiosidad y respeto por la diversidad de perfiles lingüísticos.<br />\n<ul>\n<li>Utiliza vocabulario básico en inglés en rutinas o juegos simbólicos relacionados con la granja y el cuento.</li>\n</ul>\n</li>\n<li style=\"text-align: justify;\">1.4. Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales. \n<ul>\n<li style=\"text-align: justify;\">Interactúa de forma guiada con recursos digitales (PDI/tablet) para escuchar audios, ver imágenes o participar en juegos.</li>\n</ul>\n</li>\n</ul>\n<p style=\"text-align: justify;\">- <strong>Competencia específica 2:</strong> Interpretar y comprender mensajes y representaciones apoyándose en conocimientos y recursos de su propia experiencia para responder a las demandas del entorno y construir nuevos aprendizajes.</p>\n<ul>\n<li style=\"text-align: justify;\">2.2. Interpretar los mensajes transmitidos mediante representaciones o manifestaciones artísticas, también en formato digital, reconociendo la intencionalidad del emisor y mostrando una actitud curiosa y responsable.\n<ul>\n<li style=\"text-align: justify;\">Atiende y muestra comprensión global de cuentos y canciones sencillas en inglés mediante gestos, mirada y respuesta corporal.</li>\n<li style=\"text-align: justify;\">Identifica personajes, acciones y elementos del cuento (caterpillar, butterfly, apple…) señalando imágenes o materiales manipulativos.</li>\n</ul>\n</li>\n</ul>\n<p style=\"text-align: justify;\">- <strong>Competencia específica 3:</strong> Producir mensajes de manera eficaz, personal y creativa, utilizando diferentes lenguajes, descubriendo los códigos de cada uno de ellos y explorando sus posibilidades expresivas, para responder a diferentes necesidades comunicativas.</p>\n<ul>\n<li style=\"text-align: justify;\">3.4. Elaborar creaciones plásticas, explorando y utilizando diferentes materiales y técnicas y participando activamente en el trabajo en grupo cuando se precise.\n<ul>\n<li style=\"text-align: justify;\">Realiza producciones plásticas relacionadas con la historia (oruga, frutas, mariposa) mostrando intención comunicativa.</li>\n</ul>\n</li>\n<li style=\"text-align: justify;\">3.5. Interpretar propuestas dramáticas y musicales, utilizando y explorando diferentes instrumentos, recursos o técnicas.<br />\n<ul>\n<li style=\"text-align: justify;\">Participa en dramatizaciones y juegos de representación del cuento utilizando gestos, movimientos y algunas palabras clave.</li>\n</ul>\n</li>\n</ul>\n<p>Saberes básicos: </p>\n<ul>\n<li style=\"text-align: justify;\">Comprensión del cuento.</li>\n<li style=\"text-align: justify;\">Uso del lenguaje oral: vocabulario básico y repetición de estructuras.</li>\n<li style=\"text-align: justify;\">Participación en situaciones comunicativas: escucha activa y respuesta mediante gestos y palabras.</li>\n<li style=\"text-align: justify;\">Aproximación a lengua extranjera (inglés): palabras y expresiones cotidianas vinculadas al cuento (hungry, apple, butterfly, Monday…).</li>\n<li style=\"text-align: justify;\">Expresión plástica: creación de mural y manualidad de oruga.</li>\n<li style=\"text-align: justify;\">Expresión musical y corporal: canciones (days of the week), dramatización del cuento.</li>\n<li style=\"text-align: justify;\">Iniciación a recursos digitales: participación en infografía interactiva y grabación de audio. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncqx07-74e3ru39c</odePageId>
+  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncqx07-74e3ru39c</odePageId>
+      <odeBlockId>block-1775487058286-tf158t6a0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncqx07-74e3ru39c</odePageId>
+          <odeBlockId>block-1775487058286-tf158t6a0</odeBlockId>
+          <odeIdeviceId>idevice-1775468764155-nylx440uu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Storytelling</strong>, como eje principal. </li>
+<li style="text-align: justify;"><strong>ABP</strong>, Aprendizaje Basado en Proyectos.</li>
+<li>Rutinas comunicativas en inglés: <strong>TPR</strong> (Total Physical Response ) - (uso de gestos y repetición).</li>
+<li>Enfoque globalizador.</li>
+<li>Aprendizaje cooperativo.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775468764155-nylx440uu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Storytelling</strong>, como eje principal. </li>\n<li style=\"text-align: justify;\"><strong>ABP</strong>, Aprendizaje Basado en Proyectos.</li>\n<li>Rutinas comunicativas en inglés: <strong>TPR</strong> (Total Physical Response ) - (uso de gestos y repetición).</li>\n<li>Enfoque globalizador.</li>\n<li>Aprendizaje cooperativo.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncqx08-iptw9pjrk</odePageId>
+  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncqx08-iptw9pjrk</odePageId>
+      <odeBlockId>block-1775487111005-smoftpsg4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncqx08-iptw9pjrk</odePageId>
+          <odeBlockId>block-1775487111005-smoftpsg4</odeBlockId>
+          <odeIdeviceId>idevice-1775469122713-ark8g0s8b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Plan de Salud y Bienestar (plan nutricional). </li>
+<li style="text-align: justify;">Semana de la Ciencia.</li>
+<li style="text-align: justify;">Plan Lector (PLEI).</li>
+<li style="text-align: justify;">Plan Digital de Centro.</li>
+<li style="text-align: justify;">Plan Integral de Convivencia.</li>
+<li style="text-align: justify;">Plan de Atención a la Diversidad e Inclusión.</li>
+<li style="text-align: justify;">Programa Auxiliares de Conversación en lengua inglesa. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775469122713-ark8g0s8b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Plan de Salud y Bienestar (plan nutricional). </li>\n<li style=\"text-align: justify;\">Semana de la Ciencia.</li>\n<li style=\"text-align: justify;\">Plan Lector (PLEI).</li>\n<li style=\"text-align: justify;\">Plan Digital de Centro.</li>\n<li style=\"text-align: justify;\">Plan Integral de Convivencia.</li>\n<li style=\"text-align: justify;\">Plan de Atención a la Diversidad e Inclusión.</li>\n<li style=\"text-align: justify;\">Programa Auxiliares de Conversación en lengua inglesa. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncqx08-zkb73mx8f</odePageId>
+  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncqx08-zkb73mx8f</odePageId>
+      <odeBlockId>block-1775487163818-9u1abg6z1</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncqx08-zkb73mx8f</odePageId>
+          <odeBlockId>block-1775487163818-9u1abg6z1</odeBlockId>
+          <odeIdeviceId>idevice-1775478138233-kiesekd0f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Taller con familias: "Gusanos de seda".</li>
+<li>Salida fin de curso al Jardín Botánico Atlántico de Gijón. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775478138233-kiesekd0f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Taller con familias: \"Gusanos de seda\".</li>\n<li>Salida fin de curso al Jardín Botánico Atlántico de Gijón. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnncqx08-p8yum0htk</odePageId>
+  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <pageName>6. Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnncqx08-p8yum0htk</odePageId>
+      <odeBlockId>block-1775487173852-5biloalgo</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnncqx08-p8yum0htk</odePageId>
+          <odeBlockId>block-1775487173852-5biloalgo</odeBlockId>
+          <odeIdeviceId>idevice-1775486355042-oprmc4n91</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SA 1: "From Egg to Butterfly: Our Hungry Caterpillar on the Farm".</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">exelearning Tarea 2a curso CDD B2
+</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Isaac Martínez Gómez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
