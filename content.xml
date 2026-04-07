@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260406173540YEDSCR</value>
+    <value>20260407094755DHA4RF</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202604061735405TBIF8</value>
+    <value>20260407094755FAK941</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -57,7 +57,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1775489737120</value>
+    <value>1775548070467</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -90,7 +90,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mnncqx05-blb1re8oq</odePageId>
+  <odePageId>page-mnobh7ax-k4e2xpj78</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>SA1: &quot;From Egg to Butterfly: Our Hungry Caterpillar on the Farm&quot;. </pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -126,7 +126,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnncqx05-blb1re8oq</odePageId>
+      <odePageId>page-mnobh7ax-k4e2xpj78</odePageId>
       <odeBlockId>block-1774951624005-1sdhn92ee</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -155,7 +155,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnncqx05-blb1re8oq</odePageId>
+          <odePageId>page-mnobh7ax-k4e2xpj78</odePageId>
           <odeBlockId>block-1774951624005-1sdhn92ee</odeBlockId>
           <odeIdeviceId>idevice-1774951624002-5jk8o2xfr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -163,7 +163,12 @@
     <ul>
 <li>Dirigido a alumnado de 1º de Educación Infantil (3 años).</li>
 <li>Principalmente el área 3 "Comunicación y Representación de la Realidad" (Lengua Extranjera: inglés), aunque al ser globalizada también se trabajan las áreas 1 y 2, "Crecimiento en Armonía" y "Descubrimiento y exploración del entorno". </li>
-<li>Agrupamientos y organización espacial: individual, pequeño grupo (equipos de 5) y gran grupo (grupo clase).</li>
+<li>Agrupamientos y organización espacial:
+<ul>
+<li>Individual, pequeño grupo (equipos de 5) y gran grupo (grupo clase).</li>
+<li>Aula del grupo, aula de usos múltiples, huerto y patio. </li>
+</ul>
+</li>
 <li>Temporalización: 4 semanas, unas 8 sesiones de 30 minutos.</li>
 <li>Productos intermedios y producto final:
 <ul>
@@ -199,7 +204,7 @@
 <li>Herramientas tecnológicas: Canva, Genially, iDoceo, VN, Grabadora de voz.</li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774951624002-5jk8o2xfr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Dirigido a alumnado de 1º de Educación Infantil (3 años).</li>\n<li>Principalmente el área 3 \"Comunicación y Representación de la Realidad\" (Lengua Extranjera: inglés), aunque al ser globalizada también se trabajan las áreas 1 y 2, \"Crecimiento en Armonía\" y \"Descubrimiento y exploración del entorno\". </li>\n<li>Agrupamientos y organización espacial: individual, pequeño grupo (equipos de 5) y gran grupo (grupo clase).</li>\n<li>Temporalización: 4 semanas, unas 8 sesiones de 30 minutos.</li>\n<li>Productos intermedios y producto final:\n<ul>\n<li>El alumnado elaborará los siguientes productos intermedios: \n<ul>\n<li>Sesión 1: Presentación del cuento.</li>\n<li>Sesión 2: Vocabulario de colores, números y frutas y juego manipulativo.</li>\n<li>Sesión 3: Días de la semana con canción y tarjetas.</li>\n<li>Sesión 4: Storytelling completo + juego motor “I’m hungry!”.</li>\n<li>Sesión 5: Ciclo de vida (craft y mural cooperativo).</li>\n<li>Sesión 6: Creación de la infografía interactiva.</li>\n<li>Sesión 7: Ensayo dramatización y preparación del podcast.</li>\n<li>Sesión 8: Grabación del podcast y exposición final.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>El alumnado elaborará los siguientes productos finales: \n<ul>\n<li>Creación de la infografía interactiva.</li>\n<li>Dramatización del cuento (podcast).</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Recursos tecnológicos necesarios: tablets, pantalla digital interactiva. </li>\n<li>Herramientas tecnológicas: Canva, Genially, iDoceo, VN, Grabadora de voz.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774951624002-5jk8o2xfr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Dirigido a alumnado de 1º de Educación Infantil (3 años).</li>\n<li>Principalmente el área 3 \"Comunicación y Representación de la Realidad\" (Lengua Extranjera: inglés), aunque al ser globalizada también se trabajan las áreas 1 y 2, \"Crecimiento en Armonía\" y \"Descubrimiento y exploración del entorno\". </li>\n<li>Agrupamientos y organización espacial:\n<ul>\n<li>Individual, pequeño grupo (equipos de 5) y gran grupo (grupo clase).</li>\n<li>Aula del grupo, aula de usos múltiples, huerto y patio. </li>\n</ul>\n</li>\n<li>Temporalización: 4 semanas, unas 8 sesiones de 30 minutos.</li>\n<li>Productos intermedios y producto final:\n<ul>\n<li>El alumnado elaborará los siguientes productos intermedios: \n<ul>\n<li>Sesión 1: Presentación del cuento.</li>\n<li>Sesión 2: Vocabulario de colores, números y frutas y juego manipulativo.</li>\n<li>Sesión 3: Días de la semana con canción y tarjetas.</li>\n<li>Sesión 4: Storytelling completo + juego motor “I’m hungry!”.</li>\n<li>Sesión 5: Ciclo de vida (craft y mural cooperativo).</li>\n<li>Sesión 6: Creación de la infografía interactiva.</li>\n<li>Sesión 7: Ensayo dramatización y preparación del podcast.</li>\n<li>Sesión 8: Grabación del podcast y exposición final.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>El alumnado elaborará los siguientes productos finales: \n<ul>\n<li>Creación de la infografía interactiva.</li>\n<li>Dramatización del cuento (podcast).</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>Recursos tecnológicos necesarios: tablets, pantalla digital interactiva. </li>\n<li>Herramientas tecnológicas: Canva, Genially, iDoceo, VN, Grabadora de voz.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -221,8 +226,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnncqx07-xtp9zvcuc</odePageId>
-  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <odePageId>page-mnobh7ay-x9rmdfcl8</odePageId>
+  <odeParentPageId>page-mnobh7ax-k4e2xpj78</odeParentPageId>
   <pageName>1. Intención Educativa</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -257,7 +262,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnncqx07-xtp9zvcuc</odePageId>
+      <odePageId>page-mnobh7ay-x9rmdfcl8</odePageId>
       <odeBlockId>block-1775486791424-8d736px59</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -286,7 +291,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnncqx07-xtp9zvcuc</odePageId>
+          <odePageId>page-mnobh7ay-x9rmdfcl8</odePageId>
           <odeBlockId>block-1775486791424-8d736px59</odeBlockId>
           <odeIdeviceId>idevice-1775486791422-318rrqe4h</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -346,8 +351,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnncqx07-4686w3a3f</odePageId>
-  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <odePageId>page-mnobh7az-rgqo6uq20</odePageId>
+  <odeParentPageId>page-mnobh7ax-k4e2xpj78</odeParentPageId>
   <pageName>2. Elementos Curriculares</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -382,7 +387,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnncqx07-4686w3a3f</odePageId>
+      <odePageId>page-mnobh7az-rgqo6uq20</odePageId>
       <odeBlockId>block-1775486997138-6v8xqff2x</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -411,7 +416,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnncqx07-4686w3a3f</odePageId>
+          <odePageId>page-mnobh7az-rgqo6uq20</odePageId>
           <odeBlockId>block-1775486997138-6v8xqff2x</odeBlockId>
           <odeIdeviceId>idevice-1775463488021-pmdtkiuxc</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -546,8 +551,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnncqx07-74e3ru39c</odePageId>
-  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <odePageId>page-mnobh7az-w9t0fmyq</odePageId>
+  <odeParentPageId>page-mnobh7ax-k4e2xpj78</odeParentPageId>
   <pageName>3. Metodologías activas</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -582,7 +587,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnncqx07-74e3ru39c</odePageId>
+      <odePageId>page-mnobh7az-w9t0fmyq</odePageId>
       <odeBlockId>block-1775487058286-tf158t6a0</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -611,7 +616,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnncqx07-74e3ru39c</odePageId>
+          <odePageId>page-mnobh7az-w9t0fmyq</odePageId>
           <odeBlockId>block-1775487058286-tf158t6a0</odeBlockId>
           <odeIdeviceId>idevice-1775468764155-nylx440uu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -646,8 +651,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnncqx08-iptw9pjrk</odePageId>
-  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <odePageId>page-mnobh7az-tkp6nwkj6</odePageId>
+  <odeParentPageId>page-mnobh7ax-k4e2xpj78</odeParentPageId>
   <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -682,7 +687,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnncqx08-iptw9pjrk</odePageId>
+      <odePageId>page-mnobh7az-tkp6nwkj6</odePageId>
       <odeBlockId>block-1775487111005-smoftpsg4</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -711,7 +716,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnncqx08-iptw9pjrk</odePageId>
+          <odePageId>page-mnobh7az-tkp6nwkj6</odePageId>
           <odeBlockId>block-1775487111005-smoftpsg4</odeBlockId>
           <odeIdeviceId>idevice-1775469122713-ark8g0s8b</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -748,8 +753,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnncqx08-zkb73mx8f</odePageId>
-  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <odePageId>page-mnobh7az-5hl4v3v4e</odePageId>
+  <odeParentPageId>page-mnobh7ax-k4e2xpj78</odeParentPageId>
   <pageName>5. Actividades complementarias y extraescolares</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -784,7 +789,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnncqx08-zkb73mx8f</odePageId>
+      <odePageId>page-mnobh7az-5hl4v3v4e</odePageId>
       <odeBlockId>block-1775487163818-9u1abg6z1</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -813,17 +818,17 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnncqx08-zkb73mx8f</odePageId>
+          <odePageId>page-mnobh7az-5hl4v3v4e</odePageId>
           <odeBlockId>block-1775487163818-9u1abg6z1</odeBlockId>
           <odeIdeviceId>idevice-1775478138233-kiesekd0f</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <ul>
-<li>Taller con familias: "Gusanos de seda".</li>
+<li>Taller con familias: "Gusanos de seda" (aula del grupo). </li>
 <li>Salida fin de curso al Jardín Botánico Atlántico de Gijón. </li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775478138233-kiesekd0f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Taller con familias: \"Gusanos de seda\".</li>\n<li>Salida fin de curso al Jardín Botánico Atlántico de Gijón. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775478138233-kiesekd0f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Taller con familias: \"Gusanos de seda\" (aula del grupo). </li>\n<li>Salida fin de curso al Jardín Botánico Atlántico de Gijón. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -845,8 +850,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnncqx08-p8yum0htk</odePageId>
-  <odeParentPageId>page-mnncqx05-blb1re8oq</odeParentPageId>
+  <odePageId>page-mnobh7b0-c2czihda4</odePageId>
+  <odeParentPageId>page-mnobh7ax-k4e2xpj78</odeParentPageId>
   <pageName>6. Atribución y fichero descargable</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -881,7 +886,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnncqx08-p8yum0htk</odePageId>
+      <odePageId>page-mnobh7b0-c2czihda4</odePageId>
       <odeBlockId>block-1775487173852-5biloalgo</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -910,7 +915,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnncqx08-p8yum0htk</odePageId>
+          <odePageId>page-mnobh7b0-c2czihda4</odePageId>
           <odeBlockId>block-1775487173852-5biloalgo</odeBlockId>
           <odeIdeviceId>idevice-1775486355042-oprmc4n91</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
